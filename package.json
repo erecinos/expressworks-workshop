@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "ejs-locals": "1.0.2",
+    "express": "^4.11.2",
+    "jade": "^1.11.0",
+    "mongoose": "3.8.1",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0",
+    "stylus": "^0.54.5"
+  },
+  "main": "1-helloworld.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
